@@ -1,12 +1,11 @@
-## My Project Title
-
-
+## Understanding People in Germany through numbers
 ---
 
-### Project description
+Group F: Jenny Schönfeld, Jimi Kim, Felix Daubner
 
-*Your description here*
+The European Social Survey (ESS) is a major research initiative, a large-scale investigation into the thoughts and feelings of people across Europe, spanning 28 countries, including Germany. Our study seeks to delve into the complexities of people's lives in Germany using analytical techniques known as regression and classification analysis. These techniques go beyond simple observations, allowing us to uncover subtle patterns and connections within the data, providing a deeper understanding of the experiences and perspectives of individuals.
 
+This repository provides insights into the German society and tries to uncover influences on the gross pay as well as someone's happiness based on financial, political, educational, and personal aspects. 
 
 ---
 
